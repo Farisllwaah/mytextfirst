@@ -1,4 +1,11 @@
 Q1- If process Pi is executing in its critical section, then no other processes can be executing in their critical sections. This rule stands true for ---Mutual exclusion---------.
- Q2- If no process is executing in its critical section and there exist some processes that wish to enter their critical section, then the selection of the process that will enter the critical section next cannot be postponed indefinitely. This rule stands true for ----------------.
+Q2- If no process is executing in its critical section and there exist some processes that wish to enter their critical section, then the selection of the process that will enter the critical section next cannot be postponed indefinitely. This rule stands true for ----------------.
 Q3- The process can be affected by other processes executing in the system is called –Cooperating.
 Q4- The benefit of using GitHub
+
+Give a suitable name of the following definition:
+1- One rule stands true of the condition of critical section that says if process Pi is executing in its critical section, then no other processes can be executing in their critical sections. (Mutual exclusion)
+
+2- The process can be affected by other process executing in the system. (Cooperating process)
+
+3- One rule implies true of the condition of critical section that there exists a bound on the number of times is allowed to enter its critical section. 
